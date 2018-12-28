@@ -18,4 +18,5 @@ The methods would be largely exploratory at first. I would also benefit from usi
 
 2. Number of reviews/ratings for all-time lists decline exponentially, but overall rating declines linearly.
 
-3. ...
+3. Popularity of works will not be a significant factor of rating -> popular works, even some acclaimed ones, will not necessarily have good ratings, and underground works can have very good ratings.
+
