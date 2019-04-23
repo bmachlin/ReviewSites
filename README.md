@@ -2,7 +2,7 @@
 
 ## Idea
  
-I had this idea that there's are somewhat subtle - though observable - tendencies for domain specific review/rating sites. For example, on rateyourmusic.com - a music focused review site - certain genres are usually better rated. And a 4/5 on RYM doesn't necessarily mean the same as a 4/5 on any other site. 
+I had this idea that there are somewhat subtle - though observable - tendencies for domain specific review/rating sites. For example, on rateyourmusic.com - a music focused review site - certain genres are usually better rated. And a 4/5 on RYM doesn't necessarily mean the same as a 4/5 on any other site. 
 
 The most active (and accessible) commnunities that I know of are RYM for music, GoodReads (GR) for books, and Letterboxd (LB) for film.
 
